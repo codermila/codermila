@@ -5,7 +5,7 @@
 ---
 ### 👩‍💻 CoderMila 👩‍💻 
 
-Sou arquiteta e urbanista, atualmente estou me dedicando a area de Engenharia de Software, aprimorando meu conhecimento em JavaScript, Python e C++. Tenho experiência em Visual Studio Code, GitHub, Git, JavaScript, Node.js, Python, C++, TypeScript e PostgreSQL. Meu objetivo é evoluir nesta jornada de aprendizado e crescimento 🖖.
+Sou arquiteta e urbanista, atualmente estou me dedicando á area de Engenharia de Software, aprimorando meu conhecimento em JavaScript, Python e C++. Tenho experiência em Visual Studio Code, GitHub, Git, JavaScript, Node.js, Python, C++, TypeScript e PostgreSQL. Meu objetivo é evoluir nesta jornada de aprendizado e crescimento 🖖.
 #### 📬 Fale comigo! 
 <a href="https://www.linkedin.com/in/ludmila-aredes/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git" width="111" height="28"/> </a>&nbsp;
 <a href = "mailto:arquitetaludmila.aredes@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" style="border-radius: 30px" target="_blank"></a>
