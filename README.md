@@ -26,4 +26,4 @@ Sou arquiteta e urbanista, atualmente estou me dedicando a area de Engenharia de
 </div>
     
 ---
-![Snake animation](https://github.com/codermila/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/codermila/dist/github-contribution-grid-snake.svg)
