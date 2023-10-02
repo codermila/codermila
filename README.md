@@ -21,11 +21,7 @@ Sou arquiteta e urbanista, atualmente estou me dedicando á area de Engenharia d
 
 <div>
   <a href="https://github.com/codermila">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=codermila&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codermila&layout=compact&langs_count=7&theme=react" />
-    
- ![Snake animation](https://github.com/codermila/codermila/blob/output/github-contribution-grid-snake.svg)
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=codermila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codermila&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 
- </div>
-
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=codermila&repo=codermila&theme=react)](https://github.com/codermila/codermila)
